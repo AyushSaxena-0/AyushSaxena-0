@@ -37,22 +37,17 @@ Building intelligent systems, computer vision solutions, generative AI products,
 
 ### 📂 Featured Projects
 
-#### 🛡️ [Deepfake Detector](https://github.com/AyushSaxena-0/Deepfake-Detector)
-An end-to-end production-ready system to classify real and deepfake images and videos.
-- **Key Features**: EfficientNet-B0 backbone, MediaPipe & OpenCV face extraction, Grad-CAM attention visualizer, and Gradio Web UI.
-- **Tech Stack**: PyTorch, OpenCV, MediaPipe, Grad-CAM, Gradio
+#### ⚡ [HyperMotion AI](https://github.com/AyushSaxena-0/HyperMotion-AI)
+An NVIDIA-accelerated AI video frame interpolation application that converts standard 24/30 FPS footage to ultra-smooth 60/120/144+ FPS.
+- **Key Features**: Optimized RIFE v4.25 FP16 inference, TensorRT/ONNX CUDA backends, hardware-accelerated NVDEC/NVENC pipelines, and hard-cut scene detection to prevent ghosting artifacts.
+- **Tech Stack**: PyTorch, TensorRT, CUDA, OpenCV, FFmpeg, Gradio
 
-#### 📝 [AI Text Detector](https://github.com/AyushSaxena-0/AI-Text-Detector)
-An intelligent analyzer to distinguish between human-written and AI-generated content.
-- **Key Features**: Advanced linguistic feature analysis, semantic evaluation, and a highly responsive classification engine.
-- **Tech Stack**: Python, NLP Libraries, Scikit-Learn
+#### 🧠 [Harmony AI](https://github.com/AyushSaxena-0/Harmony-AI)
+A multi-modal AI system designed for emotional, physical, and social well-being.
+- **Key Features**: Sentiment-aware NLP chatbot, CNN-based skin health classification via images, and real-time hand-landmark SOS gesture detection.
+- **Tech Stack**: Python, TensorFlow, PyTorch, MediaPipe, OpenCV, NLP (Transformers / NLTK)
 
-#### ⚡ [Frame Interpolation Engine](https://github.com/AyushSaxena-0/Video_Smoother)
-A deep learning video smoother that converts standard frame rate videos to high frame rates.
-- **Key Features**: Practical-RIFE flow estimation, custom TensorRT inference engine, and frame-by-frame processing.
-- **Tech Stack**: PyTorch, TensorRT, OpenCV, Python
-
-#### 👁️ [Computer Vision Projects](https://github.com/AyushSaxena-0/HeadCounter)
-A suite of computer vision applications, including count-based analysis and spatial detection.
-- **Key Features**: Head counting, real-time object tracking, and image preprocessing.
-- **Tech Stack**: OpenCV, MediaPipe, YOLO
+#### 🎙️ [VIRA](https://github.com/AyushSaxena-0/VIRA)
+An AI-powered career and placement mentor that analyzes resumes, detects skill gaps, and simulates realistic interviews with real-time feedback.
+- **Key Features**: Resume evaluation with ATS keyword matching, interactive interview simulation powered by local Ollama models, and a responsive React+Vite dashboard with Recharts analytics.
+- **Tech Stack**: React, Vite, Tailwind CSS, FastAPI, Ollama, Docker
