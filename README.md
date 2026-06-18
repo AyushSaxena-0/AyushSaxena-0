@@ -20,7 +20,7 @@ Building intelligent systems, computer vision solutions, generative AI products,
   <a href="https://github.com/AyushSaxena-0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/ayushsaxena-0" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-saxena-b29912241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
